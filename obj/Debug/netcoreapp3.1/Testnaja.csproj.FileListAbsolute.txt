@@ -1,0 +1,13 @@
+C:\Users\MDT\Desktop\Testnaja\bin\Debug\netcoreapp3.1\Testnaja.exe
+C:\Users\MDT\Desktop\Testnaja\bin\Debug\netcoreapp3.1\Testnaja.deps.json
+C:\Users\MDT\Desktop\Testnaja\bin\Debug\netcoreapp3.1\Testnaja.runtimeconfig.json
+C:\Users\MDT\Desktop\Testnaja\bin\Debug\netcoreapp3.1\Testnaja.runtimeconfig.dev.json
+C:\Users\MDT\Desktop\Testnaja\bin\Debug\netcoreapp3.1\Testnaja.dll
+C:\Users\MDT\Desktop\Testnaja\bin\Debug\netcoreapp3.1\Testnaja.pdb
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.csprojAssemblyReference.cache
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.dll
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.pdb
+C:\Users\MDT\Desktop\Testnaja\obj\Debug\netcoreapp3.1\Testnaja.genruntimeconfig.cache
